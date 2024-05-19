@@ -3,3 +3,5 @@
 => Signals are analyzed in Raspbery Pi Zero WH via Python or MATLAB.
 
 More details will be shared soon.
+
+(The project is not finished yet.)
